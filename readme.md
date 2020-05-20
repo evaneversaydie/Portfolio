@@ -3,10 +3,14 @@
 
 陸續更新中~
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-<!-- - [Profile](#profile) -->
-# [目錄](#目錄)
+- [Profile](#profile)
 - [About ME](#about-me)
+- [學習筆記](#學習筆記)
+    - [演算法筆記與實作請按這裡](#演算法筆記與實作請按這裡)
+- [實作成果](#實作成果)
 <!-- TOC END -->
+
+
 
 
 
@@ -21,5 +25,7 @@
 * Email: eva608770@gmail.com
 
 
-
+# 學習筆記
 ### [演算法筆記與實作請按這裡](https://github.com/evaneversaydie/My_Study_Note)
+
+# 實作成果
